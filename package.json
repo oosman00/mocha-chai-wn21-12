@@ -1,0 +1,22 @@
+{
+  "name": "mocha-chai-wn21-1",
+  "version": "1.0.0",
+  "description": "a repo in which i work with mocha.js and chai.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || true",
+    "coverage": "nyc npm run test"
+  },
+  "author": "Osman Osman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oosman00/mocha-chai-wn21-12/issues"
+  },
+  "homepage": "https://github.com/oosman00/mocha-chai-wn21-12#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "chai-asserttype": "^1.0.5",
+    "mocha": "^8.3.2",
+    "nyc": "^15.1.0"
+  }
+}
